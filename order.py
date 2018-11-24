@@ -4,3 +4,6 @@ def order_list():
 def order_details():
     pass
 
+def add_order():
+    pass
+

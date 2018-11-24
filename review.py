@@ -5,3 +5,7 @@ def review_list():
 
 def review_details():
     pass
+
+def add_review():
+    pass
+

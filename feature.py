@@ -7,3 +7,6 @@ def feature_details():
 def add_feature():
     pass
 
+def update_feature():
+    pass
+

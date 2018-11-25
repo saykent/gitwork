@@ -1,7 +1,7 @@
 def order_list():
     pass
 
-def order_details():
+def order_details(new_args):
     pass
 
 def add_order():

@@ -6,12 +6,6 @@ def feature_details():
 
 def add_feature():
     pass
-<<<<<<< HEAD
-
-def update_feature():
-    pass
-=======
->>>>>>> order: Fix add function error.
 
 def update_feature():
     pass

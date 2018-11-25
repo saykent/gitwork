@@ -10,4 +10,7 @@ def add_order():
 def update_order():
     pass
 
+def delete_order():
+    pass
+
 

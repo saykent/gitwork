@@ -7,3 +7,5 @@ def order_details():
 def add_order():
     pass
 
+def update_order():
+

@@ -4,3 +4,9 @@ def feature_list():
 def feature_details():
     pass
 
+def add_feature():
+    pass
+
+def update_feature():
+    pass
+
